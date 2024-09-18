@@ -2,7 +2,7 @@
 #Python has a built-in module that you can use to make random numbers.
 
 import random
-password="abcdefghijklmnopqrstvuwxyz"
+password="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 length=int(input("Enter the length of the password : "))
 
 #join() method takes all items in an iterable and joins them into one string.
