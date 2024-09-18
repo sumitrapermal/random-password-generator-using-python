@@ -1,3 +1,4 @@
+#create Alphanumeric and special symbol password
 #Python has a built-in module that you can use to make random numbers.
 
 import random
